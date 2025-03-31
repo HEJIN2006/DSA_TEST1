@@ -1,0 +1,20 @@
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\bin\Debug\cuoi.exe.config
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\bin\Debug\cuoi.exe
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\bin\Debug\cuoi.pdb
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.Form1.resources
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.exe
+C:\Users\ADMIN\Downloads\khang\cuoi\cuoi\obj\Debug\cuoi.pdb
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\bin\Debug\cuoi.exe.config
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\bin\Debug\cuoi.exe
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\bin\Debug\cuoi.pdb
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.Form1.resources
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.exe
+C:\Users\ADMIN\Downloads\khang\DSA(cần sửa)\cuoi\obj\Debug\cuoi.pdb
